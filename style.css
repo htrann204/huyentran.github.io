@@ -2,11 +2,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #f8e1e8; /* Màu nền hồng nhạt */
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #f4b6c2; /* Màu hồng đậm cho header */
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -41,7 +41,7 @@ main {
 footer {
     text-align: center;
     padding: 15px 0;
-    background-color: #4CAF50;
+    background-color: #f4b6c2; /* Màu hồng đậm cho footer */
     color: white;
     position: relative;
     bottom: 0;
